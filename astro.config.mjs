@@ -7,4 +7,7 @@ export default defineConfig({
     vite: {
         plugins: [tailwindcss()],
       },
+
+      site: " https://vladimir3006.github.io",
+      base: "/order-summary/",
 });
